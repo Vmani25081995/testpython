@@ -1,1 +1,1 @@
-print ("welcome to ramachandrapuram")
+print ("welcome to rama")
